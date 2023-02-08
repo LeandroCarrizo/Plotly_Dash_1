@@ -1,0 +1,1 @@
+web: gunicorn dash_clientes_v2:server
