@@ -1,4 +1,4 @@
-# Order detail Dashboard
+# Order Detail Dashboard
 
 ![Dash version](https://img.shields.io/badge/Dash-2.6.2-succes)
 ![Pandas version](https://img.shields.io/badge/Pandas-1.5.1-succes)
